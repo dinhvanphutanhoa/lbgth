@@ -1,0 +1,8 @@
+{
+  "name": "Remix Thời Khóa Biểu Tân Hoà",
+  "description": "Hệ thống tự động đồng bộ Thời khóa biểu nhà trường, lập Lịch báo giảng và xuất Kế hoạch bài dạy (KHBD) tích hợp AI, Năng lực số, Quyền con người, GDQPAN, Dinh dưỡng chuẩn Công văn 2345/BGDĐT cho Khối 1-5. Hỗ trợ xuất file Word trọn tuần chuẩn font 12, 13, 14.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
